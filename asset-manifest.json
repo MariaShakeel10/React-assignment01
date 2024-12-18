@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-assignment01/static/css/main.111d5b75.css",
+    "main.js": "/React-assignment01/static/js/main.1e324676.js",
+    "static/js/488.640714b4.chunk.js": "/React-assignment01/static/js/488.640714b4.chunk.js",
+    "static/media/Intersect.png": "/React-assignment01/static/media/Intersect.b91f29a80eae3685b23d.png",
+    "static/media/pngwing 4.png": "/React-assignment01/static/media/pngwing 4.df7ffd5580c52af5b75d.png",
+    "index.html": "/React-assignment01/index.html",
+    "main.111d5b75.css.map": "/React-assignment01/static/css/main.111d5b75.css.map",
+    "main.1e324676.js.map": "/React-assignment01/static/js/main.1e324676.js.map",
+    "488.640714b4.chunk.js.map": "/React-assignment01/static/js/488.640714b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.111d5b75.css",
+    "static/js/main.1e324676.js"
+  ]
+}
